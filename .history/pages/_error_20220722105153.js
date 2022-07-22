@@ -1,3 +1,0 @@
-function Error({statusCode}) {
-    return 
-}
